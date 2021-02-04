@@ -24,7 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F4AE650625CAECB500860873 /* TestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4AE650625CAECB500860873 /* GingerbreadTestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GingerbreadTestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4AE650925CAECB500860873 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4AE650B25CAECB500860873 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F4AE651025CAECB500860873 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -123,7 +123,7 @@
 		F4AE650725CAECB500860873 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F4AE650625CAECB500860873 /* TestApp.app */,
+				F4AE650625CAECB500860873 /* GingerbreadTestApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -157,9 +157,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F4AE650525CAECB500860873 /* TestApp */ = {
+		F4AE650525CAECB500860873 /* GingerbreadTestApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F4AE651A25CAECB600860873 /* Build configuration list for PBXNativeTarget "TestApp" */;
+			buildConfigurationList = F4AE651A25CAECB600860873 /* Build configuration list for PBXNativeTarget "GingerbreadTestApp" */;
 			buildPhases = (
 				F4AE650225CAECB500860873 /* Sources */,
 				F4AE650325CAECB500860873 /* Frameworks */,
@@ -169,12 +169,12 @@
 			);
 			dependencies = (
 			);
-			name = TestApp;
+			name = GingerbreadTestApp;
 			packageProductDependencies = (
 				F4AE654525CB0AE500860873 /* Kingfisher */,
 			);
 			productName = TestApp;
-			productReference = F4AE650625CAECB500860873 /* TestApp.app */;
+			productReference = F4AE650625CAECB500860873 /* GingerbreadTestApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -207,7 +207,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F4AE650525CAECB500860873 /* TestApp */,
+				F4AE650525CAECB500860873 /* GingerbreadTestApp */,
 			);
 		};
 /* End PBXProject section */
@@ -431,7 +431,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F4AE651A25CAECB600860873 /* Build configuration list for PBXNativeTarget "TestApp" */ = {
+		F4AE651A25CAECB600860873 /* Build configuration list for PBXNativeTarget "GingerbreadTestApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F4AE651B25CAECB600860873 /* Debug */,
